@@ -58,5 +58,4 @@
 </script>
 <style lang="stylus" rel="stylesheet/stylus">
   @import 'menu.styl';
-
 </style>
